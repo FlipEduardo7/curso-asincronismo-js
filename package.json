@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FlipEduardo7/curso-asincronismo-js/issues"
   },
-  "homepage": "https://github.com/FlipEduardo7/curso-asincronismo-js#readme"
+  "homepage": "https://github.com/FlipEduardo7/curso-asincronismo-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
